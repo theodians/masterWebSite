@@ -1,0 +1,48 @@
+
+
+body{
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 1980px;
+    width: auto;
+    background-image: url("../images/pexels-miguel-á-padriñán-19670.jpg");
+    background-color: #cccc;
+}
+
+#leftHeaderText{
+    text-align: left;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+.alignCenter{
+    text-align-last: center;
+}
+
+.textColor{
+    color: white;
+    font-family: "Times New Roman";
+}
+
+.alignRight{
+    text-align: right;
+}
+
+#UniStamp{
+    height: 200px;
+    width: 200px;
+}
+
+#Picasso{
+    height: 355px;
+    width: 365px;
+}
+#davinci{
+    height: 355px;
+    width: 365px;
+}
+
+
+
