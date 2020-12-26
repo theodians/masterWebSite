@@ -5,7 +5,7 @@ body{
     max-width: 100%;
     height: 1980px;
     width: auto;
-    background-image: url("../images/pexels-miguel-á-padriñán-19670.jpg");
+    background-image: url("../images/leo.jpg");
     background-color: #cccc;
 }
 
@@ -36,12 +36,39 @@ body{
 }
 
 #Picasso{
-    height: 355px;
-    width: 365px;
+    height: 180px;
+    width: 200px;
 }
 #davinci{
     height: 355px;
     width: 365px;
+}
+
+#teacherImage1{
+    height: 100px;
+    width: 100px;
+}
+#teacherImage2{
+    height: 100px;
+    width: 100px;
+}
+#teacherImage3{
+    height: 100px;
+    width: 100px;
+}
+#teacherImage4{
+    height: 100px;
+    width: 100px;
+}
+
+footer {
+    padding: 3px;
+    color: white;
+}
+
+.CaruselPicture{
+    height: 600px;
+    width: 400px;
 }
 
 
