@@ -2,6 +2,7 @@ class Footer extends HTMLElement {
     constructor() {
         super();
     }
+
     connectedCallback() {
         var a = document.createElement('a');
         this.innerHTML = `
@@ -23,7 +24,6 @@ class Footer extends HTMLElement {
     `;
     }
 }
-
 
 
 customElements.define('footer-component', Footer);

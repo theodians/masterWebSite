@@ -2,6 +2,7 @@ class Header extends HTMLElement {
     constructor() {
         super();
     }
+
     connectedCallback() {
         var a = document.createElement('a');
         this.innerHTML = `
@@ -36,7 +37,6 @@ class Header extends HTMLElement {
     `;
     }
 }
-
 
 
 customElements.define('header-component', Header);
